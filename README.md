@@ -1,1 +1,2 @@
 # Major-project
+Minsync
