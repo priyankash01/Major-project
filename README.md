@@ -46,4 +46,5 @@ Prerequisites:
 
 ## 🧪 Problem Type
 ### Research-Based Project
-Exploring the intersection of AI and mental health support through ethical, empathetic, and technically sound implementations.
+Exploring the intersection of AI and mental health support through ethical, empathetic, and technically sound implementations.\
+
