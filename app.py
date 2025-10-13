@@ -1,12 +1,3 @@
-"""
-MindSync - Console Chatbot
-Features:
-- Sentiment analysis (HuggingFace pipeline if available, else keyword fallback)
-- Crisis keyword detection with safe responses
-- PHQ-9 screening
-Run: python app.py   (or python3 app.py)
-"""
-
 import sys
 import time
 
