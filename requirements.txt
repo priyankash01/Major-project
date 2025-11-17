@@ -1,0 +1,17 @@
+#Core Libraries
+langchain
+llama-index
+haystack
+
+#For a backend server (optional but recommended)
+fastapi
+uvicorn
+
+#Additional tools
+requests
+python-dotenv
+
+#Optional Al agent frameworks
+#(Install if you plan to use them; some may not be on PyPI or may require extra steps)
+autogpt
+babyagi
